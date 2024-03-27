@@ -1,0 +1,25 @@
+body {
+    background-color: cornflowerblue; /* Sets the background color for the site */
+    color: black; /* Sets the text color for the site */
+}
+
+nav {
+    height: 6000px; /* Sets the height of the navigation bar */
+    width: 200px;  /* Sets the width of the navigation bar */
+    float: left;   /* Floats the navigation bar to the left */
+    padding: 5px; /* Sets the padding for the navigation bar */
+    line-height: 30px; /* Sets the line height for the navigation bar */
+}
+
+footer {
+    text-align: center; /* Aligns the text in the footer to the center */
+    margin-right: 200px; /* Sets the margin on the right side of the footer */
+}
+
+img {
+    margin-right: 200px; /* Sets the margin on the right side of the image */
+}
+
+header {
+    text-align: center; /* Aligns the text in the header to the center */
+}
